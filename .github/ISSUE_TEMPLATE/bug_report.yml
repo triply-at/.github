@@ -1,5 +1,6 @@
 name: Bug report
 description: Something is broken
+type: Bug
 labels: [bug]
 body:
   - type: input
