@@ -2,6 +2,7 @@ name: Bug report
 description: Something is broken
 type: Bug
 labels: [bug]
+projects: ["triply-at/1"]
 body:
   - type: input
     id: where
