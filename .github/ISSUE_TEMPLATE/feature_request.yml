@@ -2,6 +2,7 @@ name: Feature request
 description: Suggest a change or new capability
 type: Feature
 labels: [enhancement]
+projects: ["triply-at/1"]
 body:
   - type: input
     id: where
