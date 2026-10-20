@@ -25,16 +25,7 @@ body:
     attributes:
       label: Expected
     validations:
-      required: true
-
-  - type: textarea
-    id: steps
-    attributes:
-      label: Steps to reproduce
-      value: |
-        1.
-    validations:
-      required: true
+      required: false
 
   - type: textarea
     id: proposed-solution

@@ -16,14 +16,7 @@ body:
   - type: textarea
     id: problem
     attributes:
-      label: Problem
-    validations:
-      required: true
-
-  - type: textarea
-    id: proposed-solution
-    attributes:
-      label: Proposed solution
+      label: Problem / Idea
     validations:
       required: true
 
@@ -31,6 +24,6 @@ body:
     id: notes
     attributes:
       label: Notes
-      description: Alternatives, mockups, links
+      description: Proposed Solution, Alternatives, Mockups or Links
     validations:
       required: false
