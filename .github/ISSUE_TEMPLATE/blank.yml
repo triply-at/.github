@@ -1,0 +1,10 @@
+name: Blank issue
+description: Start from scratch
+projects: ["triply-at/1"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: false
